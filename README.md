@@ -1,8 +1,8 @@
 Stasjon 3: Robot-arm
 På denne stasjonen skal du jobbe med en robot-arm, som kan gripe tak i og flytte på forskjellige objekter.
 Blir du ferdig med øvelsene før tiden, kan du enten velge å fortsette med de foreslåtte øvelsene eller å lage dit eget program. Det forventes ikke at du kan lage alle øvelserne selv, men det vil være mentorer tilstede som kan hjelpe med disse.
-All kode er markert med grønn tekst som du kan kopiere inn i dit program, dersom du ikke vil skrive det selv 😊
-Opgaver:
+Du kan kopiere koden inn i ditt eget program hvis du ikke vil skrive det selv 😊.
+Oppgaver:
 
 1.	Start med å åpne Arduino programmet som ligger på denne linken.
 Med dette programmet kan du bruke joysticken til å styre roboten manuelt. Bildet under viser de forskjellige funksjoner på joysticken. I tilegg kan du klikke på knappen til venstre for å deaktivere motorerne (dersom du vil unngå å høre på støyet).
